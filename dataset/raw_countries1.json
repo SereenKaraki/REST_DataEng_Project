@@ -1,0 +1,2288 @@
+[
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 244236,
+        "area_kilometers": 8665.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 43844000,
+        "area_kilometers": 652230.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2335930,
+        "area_kilometers": 28748.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 47400000,
+        "area_kilometers": 2381741.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 43268,
+        "area_kilometers": 199.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 90271,
+        "area_kilometers": 468.0,
+        "_meta_lastUpdatedTimestamp": 1794534067
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 38778554,
+        "area_kilometers": 1246700.0,
+        "_meta_lastUpdatedTimestamp": 1794522192
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 16010,
+        "area_kilometers": 91.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Antarctic",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1300,
+        "area_kilometers": 14000000.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 106365,
+        "area_kilometers": 442.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 46466688,
+        "area_kilometers": 2780400.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3103900,
+        "area_kilometers": 29743.0,
+        "_meta_lastUpdatedTimestamp": 1794554095
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 110625,
+        "area_kilometers": 180.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 27921150,
+        "area_kilometers": 7692024.0,
+        "_meta_lastUpdatedTimestamp": 1789747895
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 9228795,
+        "area_kilometers": 83871.0,
+        "_meta_lastUpdatedTimestamp": 1794528501
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10273450,
+        "area_kilometers": 86600.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 398165,
+        "area_kilometers": 13943.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1603260,
+        "area_kilometers": 765.0,
+        "_meta_lastUpdatedTimestamp": 1792405256
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 169828911,
+        "area_kilometers": 147570.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 261692,
+        "area_kilometers": 430.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 9056080,
+        "area_kilometers": 207600.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11947050,
+        "area_kilometers": 30528.0,
+        "_meta_lastUpdatedTimestamp": 1794528501
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 418982,
+        "area_kilometers": 22966.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 13551992,
+        "area_kilometers": 112622.0,
+        "_meta_lastUpdatedTimestamp": 1788557516
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 64055,
+        "area_kilometers": 54.0,
+        "_meta_lastUpdatedTimestamp": 1790370196
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 790718,
+        "area_kilometers": 38394.0,
+        "_meta_lastUpdatedTimestamp": 1791374497
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11365333,
+        "area_kilometers": 1098581.0,
+        "_meta_lastUpdatedTimestamp": 1794568335
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3412000,
+        "area_kilometers": 51209.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2515633,
+        "area_kilometers": 582000.0,
+        "_meta_lastUpdatedTimestamp": 1791021617
+    },
+    {
+        "region": "Antarctic",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 0,
+        "area_kilometers": 49.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 214211951,
+        "area_kilometers": 8515767.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2000,
+        "area_kilometers": 60.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 38984,
+        "area_kilometers": 151.0,
+        "_meta_lastUpdatedTimestamp": 1791200068
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 458600,
+        "area_kilometers": 5765.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6423207,
+        "area_kilometers": 110879.0,
+        "_meta_lastUpdatedTimestamp": 1794558379
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 22489126,
+        "area_kilometers": 272967.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 12332788,
+        "area_kilometers": 27834.0,
+        "_meta_lastUpdatedTimestamp": 1789241057
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 491233,
+        "area_kilometers": 4033.0,
+        "_meta_lastUpdatedTimestamp": 1794607457
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 17816143,
+        "area_kilometers": 181035.0,
+        "_meta_lastUpdatedTimestamp": 1794510705
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 29442327,
+        "area_kilometers": 475442.0,
+        "_meta_lastUpdatedTimestamp": 1794598089
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 41798407,
+        "area_kilometers": 9984670.0,
+        "_meta_lastUpdatedTimestamp": 1790182685
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 31980,
+        "area_kilometers": 328.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 90577,
+        "area_kilometers": 264.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5513282,
+        "area_kilometers": 622984.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 20031602,
+        "area_kilometers": 1284000.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 20150948,
+        "area_kilometers": 756102.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1404890000,
+        "area_kilometers": 9706961.0,
+        "_meta_lastUpdatedTimestamp": 1791895039
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1692,
+        "area_kilometers": 135.0,
+        "_meta_lastUpdatedTimestamp": 1790415775
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 593,
+        "area_kilometers": 14.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 53399171,
+        "area_kilometers": 1141748.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 944388,
+        "area_kilometers": 1862.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6332961,
+        "area_kilometers": 342000.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 15040,
+        "area_kilometers": 236.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5160700,
+        "area_kilometers": 51100.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3874993,
+        "area_kilometers": 56594.0,
+        "_meta_lastUpdatedTimestamp": 1794515887
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 9434593,
+        "area_kilometers": 109884.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 155826,
+        "area_kilometers": 444.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 996600,
+        "area_kilometers": 9251.0,
+        "_meta_lastUpdatedTimestamp": 1794510671
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10903655,
+        "area_kilometers": 78865.0,
+        "_meta_lastUpdatedTimestamp": 1789247316
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 116452000,
+        "area_kilometers": 2344858.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6044001,
+        "area_kilometers": 43094.0,
+        "_meta_lastUpdatedTimestamp": 1794540513
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1066809,
+        "area_kilometers": 23200.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 65431,
+        "area_kilometers": 751.0,
+        "_meta_lastUpdatedTimestamp": 1792404977
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11532151,
+        "area_kilometers": 48671.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 18135478,
+        "area_kilometers": 276841.0,
+        "_meta_lastUpdatedTimestamp": 1794754163
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 108613296,
+        "area_kilometers": 1002450.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6029976,
+        "area_kilometers": 21041.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1795834,
+        "area_kilometers": 28051.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3682669,
+        "area_kilometers": 117600.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1360745,
+        "area_kilometers": 45227.0,
+        "_meta_lastUpdatedTimestamp": 1792354598
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1235549,
+        "area_kilometers": 17364.0,
+        "_meta_lastUpdatedTimestamp": 1794530853
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 111652998,
+        "area_kilometers": 1104300.0,
+        "_meta_lastUpdatedTimestamp": 1788557517
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3662,
+        "area_kilometers": 12173.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 55466,
+        "area_kilometers": 1393.0,
+        "_meta_lastUpdatedTimestamp": 1794528501
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 902623,
+        "area_kilometers": 18272.0,
+        "_meta_lastUpdatedTimestamp": 1794742471
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5662086,
+        "area_kilometers": 338424.0,
+        "_meta_lastUpdatedTimestamp": 1794510649
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 69081996,
+        "area_kilometers": 551695.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 254541,
+        "area_kilometers": 83534.0,
+        "_meta_lastUpdatedTimestamp": 1791047932
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 278786,
+        "area_kilometers": 4167.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Antarctic",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 400,
+        "area_kilometers": 7747.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2469296,
+        "area_kilometers": 267668.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2422712,
+        "area_kilometers": 10689.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3657000,
+        "area_kilometers": 69700.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 83298787,
+        "area_kilometers": 357114.0,
+        "_meta_lastUpdatedTimestamp": 1790233840
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 34378768,
+        "area_kilometers": 238533.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 38196,
+        "area_kilometers": 6.0,
+        "_meta_lastUpdatedTimestamp": 1791073765
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10372335,
+        "area_kilometers": 131990.0,
+        "_meta_lastUpdatedTimestamp": 1790063323
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 56945,
+        "area_kilometers": 2166086.0,
+        "_meta_lastUpdatedTimestamp": 1794512332
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 109021,
+        "area_kilometers": 344.0,
+        "_meta_lastUpdatedTimestamp": 1792354394
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 400132,
+        "area_kilometers": 1628.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 153836,
+        "area_kilometers": 549.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 18406359,
+        "area_kilometers": 108889.0,
+        "_meta_lastUpdatedTimestamp": 1789141655
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 64781,
+        "area_kilometers": 78.0,
+        "_meta_lastUpdatedTimestamp": 1789393059
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 17521167,
+        "area_kilometers": 245857.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1890252,
+        "area_kilometers": 36125.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 956044,
+        "area_kilometers": 214969.0,
+        "_meta_lastUpdatedTimestamp": 1794510705
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11867032,
+        "area_kilometers": 27750.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Antarctic",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 0,
+        "area_kilometers": 412.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10186738,
+        "area_kilometers": 112492.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 7498100,
+        "area_kilometers": 1104.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 9488428,
+        "area_kilometers": 93028.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 397710,
+        "area_kilometers": 103000.0,
+        "_meta_lastUpdatedTimestamp": 1794614105
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1429404000,
+        "area_kilometers": 3287590.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 290125073,
+        "area_kilometers": 1904569.0,
+        "_meta_lastUpdatedTimestamp": 1794522155
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 87134000,
+        "area_kilometers": 1648195.0,
+        "_meta_lastUpdatedTimestamp": 1788658103
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 46118793,
+        "area_kilometers": 438317.0,
+        "_meta_lastUpdatedTimestamp": 1791292128
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5525600,
+        "area_kilometers": 70273.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 84975,
+        "area_kilometers": 572.0,
+        "_meta_lastUpdatedTimestamp": 1794512209
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10296300,
+        "area_kilometers": 20770.0,
+        "_meta_lastUpdatedTimestamp": 1794513088
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 58949500,
+        "area_kilometers": 301336.0,
+        "_meta_lastUpdatedTimestamp": 1794529576
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 33293101,
+        "area_kilometers": 322463.0,
+        "_meta_lastUpdatedTimestamp": 1790171624
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2774538,
+        "area_kilometers": 10991.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 122690000,
+        "area_kilometers": 377930.0,
+        "_meta_lastUpdatedTimestamp": 1794544491
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 104540,
+        "area_kilometers": 116.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11937000,
+        "area_kilometers": 89342.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 20633529,
+        "area_kilometers": 2724900.0,
+        "_meta_lastUpdatedTimestamp": 1794505482
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 54227015,
+        "area_kilometers": 580367.0,
+        "_meta_lastUpdatedTimestamp": 1791328710
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 120740,
+        "area_kilometers": 811.0,
+        "_meta_lastUpdatedTimestamp": 1788557518
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1582322,
+        "area_kilometers": 10908.0,
+        "_meta_lastUpdatedTimestamp": 1792498329
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 4881254,
+        "area_kilometers": 17818.0,
+        "_meta_lastUpdatedTimestamp": 1794518829
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 7404300,
+        "area_kilometers": 199951.0,
+        "_meta_lastUpdatedTimestamp": 1792405003
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 7745000,
+        "area_kilometers": 236800.0,
+        "_meta_lastUpdatedTimestamp": 1792537093
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1828600,
+        "area_kilometers": 64559.0,
+        "_meta_lastUpdatedTimestamp": 1794541137
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5895466,
+        "area_kilometers": 10452.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2116427,
+        "area_kilometers": 30355.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5248621,
+        "area_kilometers": 111369.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 7539852,
+        "area_kilometers": 1759540.0,
+        "_meta_lastUpdatedTimestamp": 1794695177
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 41228,
+        "area_kilometers": 160.0,
+        "_meta_lastUpdatedTimestamp": 1794530853
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2890874,
+        "area_kilometers": 65300.0,
+        "_meta_lastUpdatedTimestamp": 1794582607
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 690959,
+        "area_kilometers": 2586.0,
+        "_meta_lastUpdatedTimestamp": 1788773661
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 686500,
+        "area_kilometers": 30.0,
+        "_meta_lastUpdatedTimestamp": 1794556089
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 32658977,
+        "area_kilometers": 587041.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 21201635,
+        "area_kilometers": 118484.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 34389400,
+        "area_kilometers": 330803.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 515132,
+        "area_kilometers": 300.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 23929000,
+        "area_kilometers": 1240192.0,
+        "_meta_lastUpdatedTimestamp": 1794699608
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 588254,
+        "area_kilometers": 316.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 37548,
+        "area_kilometers": 181.0,
+        "_meta_lastUpdatedTimestamp": 1789975616
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 378243,
+        "area_kilometers": 1128.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 4927532,
+        "area_kilometers": 1030700.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1240316,
+        "area_kilometers": 2040.0,
+        "_meta_lastUpdatedTimestamp": 1789835661
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 226915,
+        "area_kilometers": 374.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 131231919,
+        "area_kilometers": 1964375.0,
+        "_meta_lastUpdatedTimestamp": 1789897338
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 75817,
+        "area_kilometers": 702.0,
+        "_meta_lastUpdatedTimestamp": 1791021650
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2365600,
+        "area_kilometers": 33846.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 38857,
+        "area_kilometers": 2.02,
+        "_meta_lastUpdatedTimestamp": 1794528792
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3591120,
+        "area_kilometers": 1564110.0,
+        "_meta_lastUpdatedTimestamp": 1792405081
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 622902,
+        "area_kilometers": 13812.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 4386,
+        "area_kilometers": 102.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 37254695,
+        "area_kilometers": 446550.0,
+        "_meta_lastUpdatedTimestamp": 1791120037
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 34958973,
+        "area_kilometers": 801590.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 51375327,
+        "area_kilometers": 676578.0,
+        "_meta_lastUpdatedTimestamp": 1794522081
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3022401,
+        "area_kilometers": 825615.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11680,
+        "area_kilometers": 21.0,
+        "_meta_lastUpdatedTimestamp": 1791812877
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 30034040,
+        "area_kilometers": 147181.0,
+        "_meta_lastUpdatedTimestamp": 1792354557
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 18192693,
+        "area_kilometers": 41850.0,
+        "_meta_lastUpdatedTimestamp": 1794510671
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 264596,
+        "area_kilometers": 18575.0,
+        "_meta_lastUpdatedTimestamp": 1792205168
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 4993923,
+        "area_kilometers": 270467.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6874748,
+        "area_kilometers": 130373.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 27522750,
+        "area_kilometers": 1267000.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 223800000,
+        "area_kilometers": 923768.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1681,
+        "area_kilometers": 260.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2188,
+        "area_kilometers": 36.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 25950000,
+        "area_kilometers": 120538.0,
+        "_meta_lastUpdatedTimestamp": 1789135500
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1836713,
+        "area_kilometers": 25713.0,
+        "_meta_lastUpdatedTimestamp": 1788557519
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 382836,
+        "area_kilometers": 3355.0,
+        "_meta_lastUpdatedTimestamp": 1794754141
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 46078,
+        "area_kilometers": 464.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5636904,
+        "area_kilometers": 323802.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5454352,
+        "area_kilometers": 309500.0,
+        "_meta_lastUpdatedTimestamp": 1794515855
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 241499431,
+        "area_kilometers": 881912.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 16733,
+        "area_kilometers": 459.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5557096,
+        "area_kilometers": 6220.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 4064780,
+        "area_kilometers": 75417.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11781559,
+        "area_kilometers": 462840.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6109644,
+        "area_kilometers": 406752.0,
+        "_meta_lastUpdatedTimestamp": 1794559737
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 34157732,
+        "area_kilometers": 1285216.0,
+        "_meta_lastUpdatedTimestamp": 1791319714
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 114849400,
+        "area_kilometers": 342353.0,
+        "_meta_lastUpdatedTimestamp": 1794644414
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 35,
+        "area_kilometers": 47.0,
+        "_meta_lastUpdatedTimestamp": 1791200053
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 37221000,
+        "area_kilometers": 312679.0,
+        "_meta_lastUpdatedTimestamp": 1794510671
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11424031,
+        "area_kilometers": 92090.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3184195,
+        "area_kilometers": 8870.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3370611,
+        "area_kilometers": 11586.0,
+        "_meta_lastUpdatedTimestamp": 1794618664
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 19041322,
+        "area_kilometers": 238391.0,
+        "_meta_lastUpdatedTimestamp": 1794560663
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 146028325,
+        "area_kilometers": 17098242.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 14418145,
+        "area_kilometers": 26338.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 840974,
+        "area_kilometers": 2511.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 4255,
+        "area_kilometers": 21.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 53192,
+        "area_kilometers": 394.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 54338,
+        "area_kilometers": 261.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 184100,
+        "area_kilometers": 616.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 38659,
+        "area_kilometers": 53.0,
+        "_meta_lastUpdatedTimestamp": 1788724018
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5790,
+        "area_kilometers": 242.0,
+        "_meta_lastUpdatedTimestamp": 1794510671
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 109296,
+        "area_kilometers": 389.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 205557,
+        "area_kilometers": 2842.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 33605,
+        "area_kilometers": 61.0,
+        "_meta_lastUpdatedTimestamp": 1794513018
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 35325004,
+        "area_kilometers": 2149690.0,
+        "_meta_lastUpdatedTimestamp": 1791318264
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 19575061,
+        "area_kilometers": 196722.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6532019,
+        "area_kilometers": 88361.0,
+        "_meta_lastUpdatedTimestamp": 1792405184
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 123565,
+        "area_kilometers": 452.0,
+        "_meta_lastUpdatedTimestamp": 1789226148
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 8460512,
+        "area_kilometers": 71740.0,
+        "_meta_lastUpdatedTimestamp": 1789844614
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 6208500,
+        "area_kilometers": 710.0,
+        "_meta_lastUpdatedTimestamp": 1790538279
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 58477,
+        "area_kilometers": 34.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 5403009,
+        "area_kilometers": 49037.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2138751,
+        "area_kilometers": 20273.0,
+        "_meta_lastUpdatedTimestamp": 1794510671
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 828857,
+        "area_kilometers": 28896.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 20305907,
+        "area_kilometers": 637657.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 4914100,
+        "area_kilometers": 137600.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 63015904,
+        "area_kilometers": 1221037.0,
+        "_meta_lastUpdatedTimestamp": 1788557520
+    },
+    {
+        "region": "Antarctic",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 30,
+        "area_kilometers": 3903.0,
+        "_meta_lastUpdatedTimestamp": 1794528501
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 51106229,
+        "area_kilometers": 100210.0,
+        "_meta_lastUpdatedTimestamp": 1788829229
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 56520,
+        "area_kilometers": 3900.0,
+        "_meta_lastUpdatedTimestamp": 1794534110
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 12703714,
+        "area_kilometers": 619745.0,
+        "_meta_lastUpdatedTimestamp": 1794552249
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 49935642,
+        "area_kilometers": 505992.0,
+        "_meta_lastUpdatedTimestamp": 1794512209
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 21756000,
+        "area_kilometers": 65610.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 53282719,
+        "area_kilometers": 1886068.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 616500,
+        "area_kilometers": 163820.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 2562,
+        "area_kilometers": 61399.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10621725,
+        "area_kilometers": 450295.0,
+        "_meta_lastUpdatedTimestamp": 1794582571
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 9154896,
+        "area_kilometers": 41284.0,
+        "_meta_lastUpdatedTimestamp": 1791320117
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 26472497,
+        "area_kilometers": 185180.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 220372,
+        "area_kilometers": 964.0,
+        "_meta_lastUpdatedTimestamp": 1789897103
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 23204000,
+        "area_kilometers": 36193.0,
+        "_meta_lastUpdatedTimestamp": 1794518829
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10721000,
+        "area_kilometers": 143100.0,
+        "_meta_lastUpdatedTimestamp": 1790674559
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 70038850,
+        "area_kilometers": 945087.0,
+        "_meta_lastUpdatedTimestamp": 1788976264
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 70250751,
+        "area_kilometers": 513120.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1409452,
+        "area_kilometers": 14874.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 8095498,
+        "area_kilometers": 56785.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1411,
+        "area_kilometers": 12.0,
+        "_meta_lastUpdatedTimestamp": 1792234621
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 100179,
+        "area_kilometers": 747.0,
+        "_meta_lastUpdatedTimestamp": 1791320010
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 1512779,
+        "area_kilometers": 5130.0,
+        "_meta_lastUpdatedTimestamp": 1794512333
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11992843,
+        "area_kilometers": 163610.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 86092168,
+        "area_kilometers": 783562.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 7057841,
+        "area_kilometers": 488100.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 52299,
+        "area_kilometers": 948.0,
+        "_meta_lastUpdatedTimestamp": 1794530853
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 10643,
+        "area_kilometers": 26.0,
+        "_meta_lastUpdatedTimestamp": 1791047815
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 45905417,
+        "area_kilometers": 241550.0,
+        "_meta_lastUpdatedTimestamp": 1792328219
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 28700000,
+        "area_kilometers": 603500.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11027129,
+        "area_kilometers": 83600.0,
+        "_meta_lastUpdatedTimestamp": 1791376300
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 66912637,
+        "area_kilometers": 242900.0,
+        "_meta_lastUpdatedTimestamp": 1788557521
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 341784857,
+        "area_kilometers": 9372610.0,
+        "_meta_lastUpdatedTimestamp": 1794510775
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 300,
+        "area_kilometers": 34.2,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 87146,
+        "area_kilometers": 347.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 3480601,
+        "area_kilometers": 181034.0,
+        "_meta_lastUpdatedTimestamp": 1794513018
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 39047321,
+        "area_kilometers": 447400.0,
+        "_meta_lastUpdatedTimestamp": 1790063335
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 321409,
+        "area_kilometers": 12189.0,
+        "_meta_lastUpdatedTimestamp": 1788557522
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 882,
+        "area_kilometers": 0.44,
+        "_meta_lastUpdatedTimestamp": 1788557522
+    },
+    {
+        "region": "Americas",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 28633711,
+        "area_kilometers": 916445.0,
+        "_meta_lastUpdatedTimestamp": 1791841972
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 102300000,
+        "area_kilometers": 331212.0,
+        "_meta_lastUpdatedTimestamp": 1788557522
+    },
+    {
+        "region": "Oceania",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 11151,
+        "area_kilometers": 142.0,
+        "_meta_lastUpdatedTimestamp": 1788724019
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 510713,
+        "area_kilometers": 266000.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    },
+    {
+        "region": "Asia",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 32684503,
+        "area_kilometers": 527968.0,
+        "_meta_lastUpdatedTimestamp": 1788557522
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 23003214,
+        "area_kilometers": 752612.0,
+        "_meta_lastUpdatedTimestamp": 1788557522
+    },
+    {
+        "region": "Africa",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 16175966,
+        "area_kilometers": 390757.0,
+        "_meta_lastUpdatedTimestamp": 1791073728
+    },
+    {
+        "region": "Europe",
+        "borders": "",
+        "currencies": "",
+        "languages": "",
+        "population": 30654,
+        "area_kilometers": 1580.0,
+        "_meta_lastUpdatedTimestamp": 1788724017
+    }
+]
